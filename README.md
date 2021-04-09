@@ -30,8 +30,8 @@ Hi, I'm hzz780, a developer from China.
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hzz780&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight" alt="hzz780's github stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hzz780&count_private=true&show_icons=true&include_all_commits=true" alt="hzz780's github stats" />
 
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hzz780&count_private=true&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hzz780&count_private=true&layout=compact" />
