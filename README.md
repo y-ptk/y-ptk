@@ -1,9 +1,9 @@
-### Hi there, I'm hzz780 👋
+### Hi there, I'm y-ptk 👋
 
 <!--
-**hzz780/hzz780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**y-ptk/y-ptk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi, I'm hzz780, a developer from China.
+Hi, I'm y-ptk, a developer from China.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -30,8 +30,8 @@ Hi, I'm hzz780, a developer from China.
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hzz780&count_private=true&show_icons=true&include_all_commits=true" alt="hzz780's github stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=y-ptk&count_private=true&show_icons=true&include_all_commits=true" alt="y-ptk's github stats" />
 
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hzz780&count_private=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=y-ptk&count_private=true&layout=compact" />
